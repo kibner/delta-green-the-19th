@@ -60,7 +60,8 @@ module.exports = {
       options: {
         name: `Delta Green: The 19th`,
         short_name: `The 19th`,
-        description: "A documentation site for the Delta Green: The 19th campaign.",
+        description:
+          "A documentation site for the Delta Green: The 19th campaign.",
         lang: "en",
         start_url: `/`,
         background_color: `#121212`,
