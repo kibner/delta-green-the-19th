@@ -1,7 +1,7 @@
 {
-  "name": "mdx-documentation-site",
+  "name": "delta-green-the-19th",
   "private": true,
-  "description": "A documentation site that uses MDX pages for content.",
+  "description": "A documentation site for the Delta Green: The 19th campaign.",
   "version": "1.0.0",
   "author": "John D'Oriocourt <kibner@gmail.com>",
   "dependencies": {
@@ -43,9 +43,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/kibner/delta-green-the-19th"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/kibner/delta-green-the-19th/issues"
   }
 }

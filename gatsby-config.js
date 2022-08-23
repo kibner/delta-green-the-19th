@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `MDX Documentation Site`,
-    description: `A documentation site that uses MDX pages for content.`,
+    title: `Delta Green: The 19th`,
+    description: `A documentation site for the Delta Green: The 19th campaign.`,
     author: `John D'Oriocourt`,
     image: `src/images/gatsby-icon.png`,
     lang: `en`,
@@ -58,9 +58,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `mdx-documentation-site`,
-        short_name: `mdx-doc-site`,
-        description: "A documentation site that uses MDX pages for content.",
+        name: `Delta Green: The 19th`,
+        short_name: `The 19th`,
+        description: "A documentation site for the Delta Green: The 19th campaign.",
         lang: "en",
         start_url: `/`,
         background_color: `#121212`,
